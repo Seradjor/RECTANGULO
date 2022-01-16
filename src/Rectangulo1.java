@@ -1,5 +1,5 @@
 
-public class Rectangulo {
+public class Rectangulo1 {
     private int lado1;
     private int lado2;
     
